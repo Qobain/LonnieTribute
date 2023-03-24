@@ -1,0 +1,57 @@
+html{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    background: #ff9af2;
+    text-align:center;  
+
+}
+
+h1{
+  font-size:45px;
+  font-family:'Times New Roman', Times, serif;
+  background-color:#4c5258;
+  color:white;
+  border-radius: 35px;
+  border-style: dashed;
+  text-align: center;
+
+}
+
+
+
+img{
+    padding: 10px;
+    border-style: ridge;
+    border-radius: 25px;
+    margin-left:30px;
+}
+
+body{
+  text-align:center;  
+  line-height: 2;
+  padding: 20px;
+  margin: 10px 30px 10px 30px;
+  border-radius: 25px;
+  background-color: rgb(253, 208, 244);
+}
+p{
+    padding: 20px;
+    font-size: large;
+    
+}
+
+ul li{
+  list-style-type: circle;
+  margin: 10px 30px 10px 30px;
+  font-size: large;
+  list-style-image: url('watergun.png');
+  list-style-position: inside;
+}
+a{
+  margin-left: 25px;
+  margin-bottom: 10px;
+}
+#tribute-link{
+  font-size:14px;
+}
